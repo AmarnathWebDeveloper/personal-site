@@ -158,4 +158,9 @@ a{
         width: auto !important;
     }
 }
+@media (max-width:576px){
+    .container-2,.container-3,.container-4{
+        width:80%;
+    }
+}
 
