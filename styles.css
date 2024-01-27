@@ -138,6 +138,9 @@ a{
     .container-1  img{
         width:50%;
     }
+    .container-2 img{
+        width:50%;
+    }
     .title-1{
         margin-top: 50px !important;
         margin-bottom:50px !important;
@@ -161,6 +164,9 @@ a{
 @media (max-width:576px){
     .container-2,.container-3,.container-4{
         width:80%;
+    }
+    .container-2 img{
+        width:50%;
     }
 }
 
