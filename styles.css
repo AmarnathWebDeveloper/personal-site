@@ -109,7 +109,7 @@ hr{
 }
 .container-5{
     height:150px;
-    background-color: #E4F1FF;
+    background-color: #27005D;
     text-align: center;
 }
 a{
@@ -118,11 +118,12 @@ a{
     text-decoration: none;
     padding:10px;
     font-size: 1.12rem;
-    color:#AED2FF;
+    color:#9400FF;
 }
 
 .container-5 p{
     margin-top:50px;
+    color:#AED2FF;
 }
 @media (max-width:992px){
     .container-1{
